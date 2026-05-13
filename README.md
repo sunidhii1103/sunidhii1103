@@ -15,10 +15,17 @@ Interested in DSA, AI/ML & Data Analytics, Web Development
 
 <h3 align="left">🚀 Projects:</h3>
 
-- 💡 DP Studio — Interactive Dynamic Programming Visualizer built using React & Tailwind
+- 💡 DP Studio — Modern Dynamic Programming Visualizer with animated execution, compare mode, and educational learning interface using React & Tailwind CSS
 
 ---
 
+<h3 align="left">🏆 Achievements</h3>
+
+- 📜 Published a Design Patent titled **“AI-Driven Predictive Maintenance Robot”** under the Government of India Design Registration (Design No. 471928-001)  
+🔗 [View Certificate](https://drive.google.com/file/d/1DvubO42_THOnY2ZEGSMvVPBR4EJ-ant8/view?usp=sharing)
+- 💡 Building interactive educational tools like **DP Studio**
+- 🎨 Active contributor in graphic designing activities.
+---
 <h3 align="left">🛠 Languages and Tools:</h3>
 
 <p align="left">
