@@ -14,7 +14,9 @@ Interested in DSA, AI/ML & Data Analytics, Web Development
 ---
 
 <h3 align="left">🚀 Projects:</h3>
-- 💡 [DP Studio](https://dp-studio-1o99rorfw-sunidhii1103s-projects.vercel.app/) — Modern Dynamic Programming Visualizer featuring animated execution, compare mode, recursion tree visualization, and interactive learning modules built using React, TypeScript & Tailwind CSS
+
+**DP Studio** — Modern Dynamic Programming Visualizer featuring animated execution, compare mode, recursion tree visualization, and interactive learning modules built using React, TypeScript & Tailwind CSS. <br>
+🔗 LIVE DEMO- https://dp-studio-1o99rorfw-sunidhii1103s-projects.vercel.app/
 
 ---
 
