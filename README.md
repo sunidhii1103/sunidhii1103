@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Sunidhi</h1>
 
 <h3 align="center">Final Year B.Tech Student</h3>
@@ -111,4 +110,4 @@ Interested in DSA, AI/ML & Data Analytics, Web Development
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunidhii1103&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-```
+
